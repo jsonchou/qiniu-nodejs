@@ -1,0 +1,1 @@
+'use strict';module.exports ={"PATH":"D:\\前端事务\\发布","ACCESS_KEY":"<ACCESS_KEY>","SECRET_KEY":"<SECRET_KEY>","Bucket_Name":"uzairesourcestatic","Uptoken_Url":"uptoken","Domain":"http://r.uzaicdn.com/"}
