@@ -1,4 +1,2 @@
-七牛云存储文件发布 - NodeJS方式
-========================
-
-## 按文件全路径发布
+# qiniu-nodejs
+add multi upload &amp; extend the official jssdk
